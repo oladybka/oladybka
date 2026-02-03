@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi , I'm Ola  👋
 
-<!--
-**oladybka/oladybka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Data Analyst | SQL • Power BI • Excel**
 
-Here are some ideas to get you started:
+I’m building my data analytics portfolio using real business datasets.  
+I focus on turning raw data into clear insights that support decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech stack
+- SQL (CTE, JOINs, window functions)
+- Power BI (data modeling, DAX basics)
+- Excel (pivot tables, analysis)
+- Basics of Python (pandas)
+
+### 📊 Featured projects
+- Customer Retention Analysis (SQL + Power BI)
+- RFM Customer Segmentation
+- Sales Performance Dashboard
+
+🔗 Portfolio: https://oladybka.github.io  
+
